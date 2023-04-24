@@ -13,7 +13,7 @@ D - Strafe right
 
 I - Opens and closes inventory panel
 
-N - Unlocks mouse capture
+N - Unlocks mouse capture (to close program)
 M - Locks mouse capture
 
 Left Mouse Button - Interacts with world / Shoots fireball
