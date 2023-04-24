@@ -1,0 +1,53 @@
+{
+  "Tutorial01": {
+    "MapName": "Tutorial01",
+    "ItemCountMin": 1,
+    "ItemCountMax": 2,
+    "Item1Name": "Gold",
+    "Item1Chance": 70,
+    "Item1MinQ": 2,
+    "Item1MaxQ": 5,
+    "Item2Name": "Iron Sword",
+    "Item2Chance": 20,
+    "Item2MinQ": 1,
+    "Item2MaxQ": 1,
+    "Item3Name": "Iron Cuirass",
+    "Item3Chance": 10,
+    "Item3MinQ": 1,
+    "Item3MaxQ": 1
+  },
+  "Grassland01": {
+    "MapName": "Grassland01",
+    "ItemCountMin": 1,
+    "ItemCountMax": 3,
+    "Item1Name": "Gold",
+    "Item1Chance": 60,
+    "Item1MinQ": 15,
+    "Item1MaxQ": 35,
+    "Item2Name": "Steel Sword",
+    "Item2Chance": 25,
+    "Item2MinQ": 1,
+    "Item2MaxQ": 1,
+    "Item3Name": "Steel Boots",
+    "Item3Chance": 15,
+    "Item3MinQ": 1,
+    "Item3MaxQ": 1
+  },
+  "Grassland02": {
+    "MapName": "Grassland02",
+    "ItemCountMin": 1,
+    "ItemCountMax": 3,
+    "Item1Name": "Gold",
+    "Item1Chance": 60,
+    "Item1MinQ": 45,
+    "Item1MaxQ": 120,
+    "Item2Name": "Iron Ore",
+    "Item2Chance": 30,
+    "Item2MinQ": 1,
+    "Item2MaxQ": 3,
+    "Item3Name": "Steel Spear",
+    "Item3Chance": 10,
+    "Item3MinQ": 1,
+    "Item3MaxQ": 1
+  }
+}
