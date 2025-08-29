@@ -1,21 +1,32 @@
-# InventoryDemo
+# Chest Loot & Inventory System Demo (Godot)
 
-This inventory demo is currently a stalled project. The demo is to provide an experience of using random generation to fill chests up with items that you can take and store in your inventory. The process allows generation of items, the ability to take the items out and store them in your inventory, close the chests, revist them with the same loot. This demo also creates a save file in the User directory to give the ability to load progress when restarting game. 
+A first-person demo project made with **Godot Engine**, showcasing random item generation and an a rudimentary inventory system.
 
-Try it out: https://drive.google.com/file/d/1PeNU4eGwAaFSN5I3ckZxWXBRim46MlvO/view?usp=sharing
+This project demonstrates:
+- Random loot generation inside world chests
+- Persistent inventory across game sessions
+- Interaction mechanics and item collection
+- Save/load functionality using local user storage
 
-CONTROLS
+---
 
-W - Foward
-A - Strafe Left
-S - Backward
-D - Strafe right
+## 🎮 Features
 
-I - Opens and closes inventory panel
+- ✅ Randomized item generation for chests
+- ✅ Items can be collected and stored in player's inventory
+- ✅ Chests remember their contents even after closing or revisiting
+- ✅ Save data stored
+- ✅ First-person player controls with world interaction
 
-N - Unlocks mouse capture (to close program)
-M - Locks mouse capture
+---
 
-Left Mouse Button - Interacts with world / Shoots fireball
+## 🕹️ Controls
 
-Mouse (Motion) - Looking around the world
+| Key | Action |
+|-----|--------|
+| `W` `A` `S` `D` | Movement (Forward, Left, Backward, Right) |
+| `I` | Toggle inventory panel |
+| `N` | Unlock mouse (use to exit or move cursor freely) |
+| `M` | Lock mouse for first-person view |
+| `Mouse Movement` | Look around |
+| `Left Mouse Button` | Interact with objects / Shoot fireball |
